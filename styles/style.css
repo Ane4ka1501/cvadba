@@ -17,10 +17,10 @@
 .video {
 height: 100%;
 left: 0;
-position: absolute;
+position: fixed;
 top: 0;
 width: 100%;
-background: #000;
+background: #fff;
 z-index: 5;
 }
 
